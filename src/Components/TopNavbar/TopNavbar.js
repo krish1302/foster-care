@@ -8,7 +8,7 @@ export class TopNavbar extends Component {
       <div className='top-navbar'>
         <div className='item'>Information</div>
         <div className='item'>
-          <div><i className='fas fa-envelope'></i> Email</div>
+          <div><i className='fas fa-envelope'></i>tazim@caff.org.uk</div>
           <div><img src={Phone} width="15px"></img> Phone</div>
         </div>
       </div>
